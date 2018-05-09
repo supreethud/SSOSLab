@@ -4,7 +4,7 @@ SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY [15CSL67]
 - (Effective from the academic year 2016 -2017) 
 - SEMESTER – VI
 
-- Lab Experiments:
+  Lab Experiments:
 - 1.
 - a) Write a LEX program to recognize valid arithmetic expression. Identifiers in the expression could be only integers and operators could be + and *. Count the identifiers & operators present and print them separately.
 - b) Write YACC program to evaluate arithmetic expression involving operators: +, -, *, and /
